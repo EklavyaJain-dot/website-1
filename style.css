@@ -1,0 +1,66 @@
+.effect{
+    background: url('Images/quality.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+
+.aboutus{
+    background: url('Images/laptop.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+}
+
+.feedback{
+    background: url('Images/feedback.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    margin-top: 10px;
+}
+
+
+body{
+  height: 600px;
+  cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1160.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1160.png), auto !important;
+}
+
+a:hover{
+color: red;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.Virtual{
+    color: rgb(11, 139, 139);
+}
+
+
+.help{
+    color: rgb(29, 145, 6);
+}
+
+a:link {
+    font-weight: bold;
+    background-color: rgba(115, 255, 0, 0.014);
+    height:35px; width:35px;
+    text-decoration:none; 
+    }
+    
+.AIChatbot{
+    background-color: hotpink;
+    width: 400px;
+    height: 400px;
+    box-shadow: gray;
+    border-radius: 20px; 
+    margin-left: 250px;
+}
+
+.input{
+    margin-left: 50px;
+    width: 300px;
+}
